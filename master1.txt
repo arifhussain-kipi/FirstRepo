@@ -1,1 +1,2 @@
 this is master1.txt
+hi! hussain
